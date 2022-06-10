@@ -1,0 +1,1 @@
+from moviedashboard import app
