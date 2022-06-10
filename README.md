@@ -27,5 +27,7 @@ To install the flask app, you need:
 
 ## Installing
 
-On a MacOS/linux system, installation is easy. Open a terminal, and go into 
-the directory with the flask app files. Run `python worldbank.py` in the terminal.
+* On a MacOS/linux system/Windows, installation is easy. Open a terminal, and go into 
+the directory with the flask app files.
+* Add following line `app.run(host='0.0.0.0', port=3001, debug=True)` to file moviedashboard.py.
+* Run `python moviedashboard.py` in the terminal.
